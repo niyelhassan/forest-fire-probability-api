@@ -8,3 +8,4 @@ gunicorn
 numpy
 pandas
 scikit-learn==0.22.1
+cython

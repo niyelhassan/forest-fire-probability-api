@@ -24,9 +24,6 @@ def home():
         x=str(x)
         return x
         print(x)
-    else:
-        text="Enter arguments to recive a probability. Go to https://forest-fire-probability-api.herokuapp.com/?temp=10&ox=10&humid=10 for an example."
-        return text
 
     
 if __name__ == '__main__':
